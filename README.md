@@ -7,7 +7,7 @@
 
 ## `For Backend`
 
-| `Project`               |  `Description`                                           |
+|  Project                |  Description                                             |
 | ----------------------- |  ------------------------------------------------------- |
 | `express`               |  node framework                                          |
 | `monogodb`              |  Database to store document-based data                   |
@@ -19,7 +19,7 @@
 
 ## `For Frontend`
 
-| `Project`               |  `Description`                                           |
+| Project                 |  Description                                             |
 | ----------------------- |  ------------------------------------------------------- |
 | `react`                 |  Frontend framework                                      |
 | `react-router-dom`      |  `/version 6/` For general routing & navigation          |
