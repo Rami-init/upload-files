@@ -1,11 +1,11 @@
 # Build The uplaoded files with progress bar
 
-## `introduction`
+## `Introduction`
 
  this app built using mern stack to deal with single image and multi image.\
   using progress bar to check when upload is complete and responsive for mobile app.
 
-## `For Backend`
+## `Backend`
 
 |  Project                |  Description                                             |
 | ----------------------- |  ------------------------------------------------------- |
@@ -17,7 +17,7 @@
 | `dotnet`                |  To load environment variables from a .env file          |
 | `nodemon`               |  for watch files when develop the backend                |
 
-## `For Frontend`
+## `Frontend`
 
 | Project                 |  Description                                             |
 | ----------------------- |  ------------------------------------------------------- |
@@ -27,7 +27,7 @@
 | `@mui/icons-material`   |  for icons                                               |
 | `axios`                 |  for deal with requests from backend                     |
 
-## `For Useage`
+## `Useage`
 
 ### backend
 
