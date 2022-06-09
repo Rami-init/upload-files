@@ -1,0 +1,59 @@
+{
+  "name": "test-mui",
+  "version": "0.1.0",
+  "private": true,
+  "proxy": "http://localhost:5000",
+  "dependencies": {
+    "@emotion/react": "^11.6.0",
+    "@emotion/styled": "^11.6.0",
+    "@mui/icons-material": "^5.1.1",
+    "@mui/material": "^5.1.1",
+    "@mui/system": "^5.1.1",
+    "@paypal/react-paypal-js": "^7.6.0",
+    "@testing-library/jest-dom": "^5.15.0",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^12.8.3",
+    "axios": "^0.26.0",
+    "jwt-decode": "^3.1.2",
+    "moment": "^2.29.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-file-base64": "^1.0.3",
+    "react-google-login": "^5.2.2",
+    "react-icons": "^4.3.1",
+    "react-paypal-button-v2": "^2.6.3",
+    "react-redux": "^7.2.8",
+    "react-router-dom": "^6.2.2",
+    "react-scripts": "4.0.3",
+    "react-toastify": "^8.2.0",
+    "redux": "^4.1.2",
+    "redux-thunk": "^2.4.1",
+    "typeface-roboto": "^1.1.13",
+    "use-debounce": "^7.0.1",
+    "web-vitals": "^1.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
